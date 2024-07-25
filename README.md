@@ -6,3 +6,6 @@ Pump.fun enables effortless creation and trading of memecoins. It operates on a 
 
 ### Pumfun.bot
 If you're interested in obtaining the Pump.fun sniper bot, please contact me for the source code through my link.
+
+### Pumfun.bot
+I'd be glad if this project is helpful to you , and give me star.
