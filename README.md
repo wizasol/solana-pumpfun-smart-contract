@@ -1,4 +1,4 @@
-# Solana Program for Pumpfun
+# Pumpfun Smart Contract with Raydium Integration
 This is the Rust/Anchor smart contract for Pump.fun, which includes functionalities for adding virtual liquidity pools (LP), removing liquidity pools, and creating Raydium Pools.
 
 ### Introduction of Pump Fun
